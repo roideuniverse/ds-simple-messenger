@@ -153,5 +153,3 @@ String portStr = tel.getLine1Number().substring(tel.getLine1Number().length() - 
 ```
 This document(http://developer.android.com/tools/devices/emulator.html#emulatornetworking) explains the Android emulator networking environment in more detail.
 In general, set_redir.py creates an emulated, port-redirected network like this (VR stands for Virtual Router):
-
-Design Document
